@@ -1,0 +1,18 @@
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\bin\Debug\net8.0\Statistical search methods.exe
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\bin\Debug\net8.0\Statistical search methods.deps.json
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\bin\Debug\net8.0\Statistical search methods.runtimeconfig.json
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\bin\Debug\net8.0\Statistical search methods.dll
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\bin\Debug\net8.0\Statistical search methods.pdb
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\bin\Debug\net8.0\MathLibrary.dll
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\bin\Debug\net8.0\MathLibrary.pdb
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.csproj.AssemblyReference.cache
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.AssemblyInfoInputs.cache
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.AssemblyInfo.cs
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.csproj.CopyComplete
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.dll
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\refint\Statistical search methods.dll
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.pdb
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\Statistical search methods.genruntimeconfig.cache
+C:\Users\Dima\RiderProjects\Statistical search methods\Statistical search methods\obj\Debug\net8.0\ref\Statistical search methods.dll
